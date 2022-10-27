@@ -1,7 +1,7 @@
 # Clone--instagram
-![README.md](https://github.com/MatheusdeSouzaSilva70/Tela-Login-Cadastro/blob/main/img/img%20do%20projeto.png)
+![README.md]()
 
-#### Novo projeto de LandingPage de Login & Cadastro feito com: HTML,CSS,JAVASCRIT.
+#### Novo projeto : HTML,CSS,JAVASCRIT.
 
 ## Recursos
 - Responsivo 100%
